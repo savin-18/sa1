@@ -1,7 +1,7 @@
 num=float(input("Enter a number"))
 if num>0:
-print("entered number is positive number")
+print("positive")
 elif num==0:
-print("Enterd number is zero")
+print("zero")
 else:
-print("Enterd number is negative")
+print("negative")
